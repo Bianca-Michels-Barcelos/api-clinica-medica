@@ -15,5 +15,6 @@ public class ConsultaController {
 
     @PostMapping
     public void agendarConsulta() {
+
     }
 }
