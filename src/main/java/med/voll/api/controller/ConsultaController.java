@@ -1,6 +1,6 @@
 package med.voll.api.controller;
 
-import med.voll.api.consulta.ConsultaRepository;
+import med.voll.api.domain.consulta.ConsultaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
